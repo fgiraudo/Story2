@@ -1,1 +1,2 @@
 Beggining of 2nd story, this one is going to be great
+However we have to create a branch which might not be so great
